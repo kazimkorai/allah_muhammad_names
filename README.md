@@ -1,6 +1,7 @@
 # allah_muhammad_names
 
-A new Flutter application.
+A new Flutter application All names of Allah and Prophet PBUH.
+Using Json Data and Implements UI Design
 
 ## Getting Started
 
